@@ -1,2 +1,3 @@
 # Hello-world
-Exploring things here
+
+Hi, Snigdha here . I like c++ and javascript .
