@@ -1,3 +1,3 @@
 # Hello-world
-Exploring things here
-hi, snigdha here . i like c++ and javascript .
+
+Hi, Snigdha here . I like c++ and javascript .
